@@ -1,0 +1,5 @@
+name,email,role,notes
+"Inam Khan","inam@example.com","Developer","Needs JSON/API tools"
+"Demo User","demo@example.com","Marketer","Uses SEO tools"
+"Student Example","student@example.com","Student","Uses PDF and image tools"
+"Creator Example","creator@example.com","Creator","Needs image compression"
