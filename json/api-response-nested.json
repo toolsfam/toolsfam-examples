@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "requestId": "demo_12345",
+  "data": {
+    "project": {
+      "name": "ToolsFam",
+      "url": "https://www.toolsfam.com",
+      "features": [
+        "browser-first tools",
+        "workflow kits",
+        "local processing where possible",
+        "no signup for core tools"
+      ]
+    },
+    "metrics": {
+      "tools": 229,
+      "categories": [
+        "Developer Tools",
+        "PDF Tools",
+        "Image Tools",
+        "SEO & Web Tools",
+        "Security & Privacy",
+        "Data Tools"
+      ]
+    }
+  }
+}
